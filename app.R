@@ -18,7 +18,7 @@ ui <- fluidPage(
                         label = "Code",
                         icon = icon("github"),
                         width = "80px",
-                        onclick ="window.open(`https://github.com/howardbaek/nhl-pbp`, '_blank')",
+                        onclick ="window.open(`https://github.com/howardbaek/mixture-cure-model-sim`, '_blank')",
                         style="color: #fff; background-color: #767676; border-color: #767676"),
            style = "position:absolute;right:2em;")
     )
