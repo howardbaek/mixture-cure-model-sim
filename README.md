@@ -13,4 +13,4 @@ When a dataset has a cure fraction, the Cox model is not correctly specified. Th
 
 
 
-I would like to thank Subodh Selukar for his mentorship
+I would like to thank Subodh Selukar for his mentorship as part of the 2020 Fall Directed Reading Program at the University of Washington.
